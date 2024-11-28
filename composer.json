@@ -55,6 +55,7 @@
         "platform": {
         "php": "8.3.14"
         },
+        "ignore-platform-reqs": true,
         "optimize-autoloader": true,
         "exclude-files-from-classmap": [
             "app/Providers/AppServiceProvider.php",
